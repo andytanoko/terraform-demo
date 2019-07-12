@@ -1,5 +1,4 @@
-# Terraform demo
-This is a terraform demo used in my Online Course (see www.newtech.academy).
+
 
 ## Usage
 To use this example, you need to add a terraform.tfvars with the following content:
